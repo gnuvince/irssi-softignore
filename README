@@ -1,0 +1,18 @@
+irssi-softignore
+  Script to darken the nicknames of annoying users in irssi
+
+Web page:
+  http://github.com/gnuvince/irssi-softignore
+
+Installation:
+  Copy in your ~/.irssi/scripts/ directory.
+
+Usage:
+  /softignore_add <nick>: add a nickname to the softignore list
+  /softignore_remove <nick>: remove a nickname from the softignore list
+  /softignore_list: View ignored nicks
+
+0.02
+  * Added support for ACTION messages
+0.01:
+  * break out of the search loop when a match is found

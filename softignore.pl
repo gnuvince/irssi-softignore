@@ -1,3 +1,6 @@
+# Web page:
+#   http://github.com/gnuvince/irssi-softignore
+#
 # Installation:
 #   Copy in your ~/.irssi/scripts/ directory.
 #
